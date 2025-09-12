@@ -20,4 +20,11 @@ https://school.programmers.co.kr/learn/courses/30/lessons/340211
 
 ##
 
+[2주차]
 
+<실전연습>
+1. [PCCP 기출문제] 1번 / 붕대 감기
+https://school.programmers.co.kr/learn/courses/30/lessons/250137
+
+2. [PCCP 기출문제] 3번 / 충돌위험 찾기<br>
+https://school.programmers.co.kr/learn/courses/30/lessons/340211
